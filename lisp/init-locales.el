@@ -18,8 +18,10 @@
   (setq locale-coding-system 'utf-8)
   (set-default-coding-systems 'utf-8)
   (set-terminal-coding-system 'utf-8)
-  (set-selection-coding-system (if (eq system-type 'windows-nt) 'utf-16-le 'utf-8))
+  (set-selection-coding-system 'utf-8);; (if (eq system-type 'windows-nt) 'utf-16-le
+
   (prefer-coding-system 'utf-8))
 
+;;; chinese-gb18030
 (provide 'init-locales)
 ;;; init-locales.el ends here

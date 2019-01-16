@@ -53,6 +53,4 @@ site-lisp/package/
 /forge-database.sqlite
 /server
 /lisp/init-local.el
-=======
-/server
->>>>>>> Joseph
+/pyim
