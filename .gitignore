@@ -48,7 +48,11 @@ site-lisp/package/
 /rake.cache
 /plantuml.jar
 /magithub
+<<<<<<< HEAD
 .cache/
 /forge-database.sqlite
 /server
 /lisp/init-local.el
+=======
+/server
+>>>>>>> Joseph
