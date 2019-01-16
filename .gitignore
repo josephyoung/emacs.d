@@ -54,3 +54,6 @@ site-lisp/package/
 /server
 /lisp/init-local.el
 /pyim
+/projectile*
+/ede-projects.el
+/notes
